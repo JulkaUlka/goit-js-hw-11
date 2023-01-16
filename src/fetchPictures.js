@@ -21,6 +21,8 @@ export class FetchPictures {
       },
     };
 
-    return await axios.get(`${FetchPictures.BASE_URL}`, searchParams);
+    
+    const response = await axios.get(`${FetchPictures.BASE_URL}`, searchParams);
+        return response.data;
   }
 }
