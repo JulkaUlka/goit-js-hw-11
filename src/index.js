@@ -28,6 +28,9 @@ const onSearchFormSubmit = async event => {
       );
       event.target.reset();
       loadMoreBtnEl.classList.add('is-hidden');
+      searchBtnEl.disabled = false;
+  searchBtnEl.classList.remove('disabled');
+      
       galleryListEl.innerHTML = '';
 
       return;
