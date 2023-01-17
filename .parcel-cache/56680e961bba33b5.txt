@@ -1573,7 +1573,7 @@
 139/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines/index.js499162500000000000 0
 130/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines1673286088768145000 1
 99/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/plugins/node_modules1673286088112122000 1
-59/home/julia/Desktop/GoIT/goit-js-hw-11/src/fetchPictures.js1673908833457073404 0
+59/home/julia/Desktop/GoIT/goit-js-hw-11/src/fetchPictures.js1673950143476546651 0
 86/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/context1673286088684142000 1
 135/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/source-not-symlinked/source.js499162500000000000 0
 120/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none/package.json499162500000000000 0
@@ -2146,7 +2146,7 @@
 81/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/css-select/lib/types.d.ts.map499162500000000000 0
 76/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@swc/helpers/lib/_jsx.js1654053420000000000 0
 102/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@swc/helpers/lib/_iterable_to_array_limit_loose.js1654053420000000000 0
-61/home/julia/Desktop/GoIT/goit-js-hw-11/dist/index.975ef6c8.js1673909271654444495 0
+61/home/julia/Desktop/GoIT/goit-js-hw-11/dist/index.975ef6c8.js1673950332072313801 0
 74/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/detect-libc/.npmignore1509267863000000000 0
 69/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/acorn/dist/bin.js499162500000000000 0
 97/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@swc/helpers/lib/_async_generator_delegate.js1654053420000000000 0
@@ -2519,7 +2519,7 @@
 102/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/intro.doc499162500000000000 0
 81/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/posthtml-include/package.json1673286091332237000 0
 81/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/posthtml-include/lib/index.js499162500000000000 0
-53/home/julia/Desktop/GoIT/goit-js-hw-11/src/index.html1673905895393109045 0
+53/home/julia/Desktop/GoIT/goit-js-hw-11/src/index.html1673950014415791868 0
 101/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-web1673286088584139000 1
 85/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/electron-to-chromium/CHANGELOG.md499162500000000000 0
 72/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/posthtml-include/lib1673286086212054000 1
@@ -2541,7 +2541,7 @@
 84/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/react-error-overlay/package.json1673286091600247000 0
 94/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/caniuse-lite/data/features/transforms3d.js499162500000000000 0
 86/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/sass/types/legacy/plugin_this.d.ts499162500000000000 0
-43/home/julia/Desktop/GoIT/goit-js-hw-11/dist1673909271658444507 1
+43/home/julia/Desktop/GoIT/goit-js-hw-11/dist1673950332076314513 1
 93/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/source-map-js/lib/source-map-generator.js499162500000000000 0
 81/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/abortcontroller-polyfill/dist1673286086260055000 1
 72/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/json5/lib/require.js499162500000000000 0
@@ -2837,7 +2837,7 @@
 84/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/css-tree/lib/syntax/node/Rule.js499162500000000000 0
 79/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/yaml/browser/types/pairs.js499162500000000000 0
 100/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/caniuse-lite/data/features/link-rel-prerender.js499162500000000000 0
-54/home/julia/Desktop/GoIT/goit-js-hw-11/dist/index.html1673908405103694812 0
+54/home/julia/Desktop/GoIT/goit-js-hw-11/dist/index.html1673950153744066004 0
 67/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/css-what/lib/es1673286086556066000 1
 94/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/css-select/lib/pseudo-selectors/pseudos.js499162500000000000 0
 70/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/css-tree/README.md499162500000000000 0
@@ -3158,7 +3158,7 @@
 101/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest2.c499162500000000000 0
 107/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/sample-bdb.txt499162500000000000 0
 77/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@parcel/utils/src/path.js499162500000000000 0
-65/home/julia/Desktop/GoIT/goit-js-hw-11/dist/index.975ef6c8.js.map1673909271658444507 0
+65/home/julia/Desktop/GoIT/goit-js-hw-11/dist/index.975ef6c8.js.map1673950332076314513 0
 70/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/clone/package.json1673286091260235000 0
 103/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.c499162500000000000 0
 70/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/css-tree/lib/utils1673286088452134000 1
@@ -3791,7 +3791,7 @@
 100/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/caniuse-lite/data/features/unhandledrejection.js499162500000000000 0
 67/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/axios/README.md499162500000000000 0
 85/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/caniuse-lite/data/features/aac.js499162500000000000 0
-51/home/julia/Desktop/GoIT/goit-js-hw-11/src/index.js1673909271526444098 0
+51/home/julia/Desktop/GoIT/goit-js-hw-11/src/index.js1673950331880279565 0
 108/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/@swc/helpers/src/_class_static_private_field_spec_get.js1650768380000000000 0
 93/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/caniuse-lite/data/features/css-subgrid.js499162500000000000 0
 81/home/julia/Desktop/GoIT/goit-js-hw-11/node_modules/ordered-binary/dist/index.cjs499162500000000000 0

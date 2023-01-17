@@ -20,8 +20,8 @@ const onSearchFormSubmit = async event => {
   fetchPictures.page = 1;
 
   try {
-    const data = await fetchPictures.fetchPhotosByQuery();
-    
+    const { data } = await fetchPictures.fetchPhotosByQuery();
+
     if (data.hits.length === 0) {
       Notiflix.Notify.failure(
         'Sorry, there are no images matching your search query. Please try again.'
@@ -40,10 +40,9 @@ const onSearchFormSubmit = async event => {
     galleryListEl.innerHTML = createGalleryCards(data.hits);
   } catch (err) {
     console.log(err);
-  } finally {
-    searchBtnEl.disabled = false;
-    searchBtnEl.classList.remove('disabled');
   }
+  searchBtnEl.disabled = false;
+  searchBtnEl.classList.remove('disabled');
 };
 
 const onLoadMoreBtnClick = async event => {
@@ -53,7 +52,7 @@ const onLoadMoreBtnClick = async event => {
   fetchPictures.page += 1;
 
   try {
-    const data = await fetchPictures.fetchPhotosByQuery();
+    const { data } = await fetchPictures.fetchPhotosByQuery();
 
     galleryListEl.insertAdjacentHTML(
       'beforeend',
@@ -68,10 +67,9 @@ const onLoadMoreBtnClick = async event => {
     }
   } catch (err) {
     console.log(err);
-  } finally {
-    event.target.disabled = false;
-    event.target.classList.remove('disabled');
   }
+  event.target.disabled = false;
+  event.target.classList.remove('disabled');
 };
 
 function createGalleryCards(cardInfo) {

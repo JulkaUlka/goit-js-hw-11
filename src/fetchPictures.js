@@ -8,7 +8,7 @@ export class FetchPictures {
     this.q = null;
   }
 
-  async fetchPhotosByQuery(q) {
+  fetchPhotosByQuery(q) {
     const searchParams = {
       params: {
         key: '28877724-a03a9cbe7251f515debe20b20',
@@ -21,8 +21,6 @@ export class FetchPictures {
       },
     };
 
-    
-    const response = await axios.get(`${FetchPictures.BASE_URL}`, searchParams);
-        return response.data;
+    return axios.get(`${FetchPictures.BASE_URL}`, searchParams);
   }
 }
